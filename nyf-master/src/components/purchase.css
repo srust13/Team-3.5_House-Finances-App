@@ -1,0 +1,42 @@
+
+.add_purchase_card_wrapper_div{
+    padding-top: 30px;
+    padding-left: 30px;
+    max-width: 1000px;
+  }
+  
+
+  .checkbox_and_name{
+      display: flex;
+      flex-direction: row;
+      padding-left: 30px;
+  }
+
+
+  .root {
+    text-align: center;
+    align-items: left;
+  }
+  
+  
+  .add_purchase_button_div {
+    padding-left: 30px;
+    padding-top: 30px;
+  }
+  
+  .purchases_owed_label{
+    padding-left: 30px;
+    padding-top: 30px;
+  
+  }
+  
+  .purchase_owed_table{
+    padding-left: 30px;
+    padding-top: 10px;  
+  }
+  
+  .purchase_owed_card{
+    padding-left: 30px;
+    padding-top: 10px;
+  }
+  
